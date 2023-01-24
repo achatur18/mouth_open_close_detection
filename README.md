@@ -1,6 +1,6 @@
 # mouth_open_close_detection
 
-##INSTALLATION
+## INSTALLATION
 
 pip install -r requirements.txt
 
